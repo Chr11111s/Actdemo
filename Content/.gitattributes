@@ -1,0 +1,11 @@
+Collections filter=lfs diff=lfs merge=lfs -text
+ExampleContent filter=lfs diff=lfs merge=lfs -text
+LyraMigrated filter=lfs diff=lfs merge=lfs -text
+ParagonGideon filter=lfs diff=lfs merge=lfs -text
+Performance filter=lfs diff=lfs merge=lfs -text
+ShooterGame filter=lfs diff=lfs merge=lfs -text
+ActionRoguelike filter=lfs diff=lfs merge=lfs -text
+ActionRougelike filter=lfs diff=lfs merge=lfs -text
+Developers filter=lfs diff=lfs merge=lfs -text
+ParagonMinions filter=lfs diff=lfs merge=lfs -text
+Splash filter=lfs diff=lfs merge=lfs -text
